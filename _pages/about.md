@@ -1,20 +1,17 @@
 ---
 layout: about
-title: about
+title: <strong>Minseok Yang </strong>
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: 
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 Welcome! I am Minseok Yang, a PhD candidate in Educational Leadership & Policy Analysis at the University of Wisconsin-Madison. I am on the job market in 2020-2021.
 
