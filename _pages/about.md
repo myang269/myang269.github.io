@@ -1,12 +1,12 @@
 ---
 layout: about
-title: <strong>Minseok Yang </strong>
+title: about
 permalink: /
 description: 
 
 profile:
   align: right
-  image: (prof_pic.jpg =400px)
+  image: prof_pic.jpg
   address: 
 
 news: false # includes a list of news items
