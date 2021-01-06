@@ -4,8 +4,9 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Minseok Yang
-email: 
+email: myang269@wisc.edu
 
+  
 url:  # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -15,7 +16,7 @@ last_updated: false # set to true if you want to display last updated in the foo
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
@@ -46,7 +47,8 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 
-contact_note:
+contact_note: >
+    The best way to contact me is through email, <a href="mailto:myang269@wisc.edu">myang269@wisc.edu</a>.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -147,7 +149,7 @@ enable_mansory:           true
 enable_math:              true
 enable_tooltips:          false
 enable_darkmode:          true
-show_social_icons:        false
+show_social_icons:        true
 
 # -----------------------------------------------------------------------------
 # Library versions
