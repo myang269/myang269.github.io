@@ -78,9 +78,6 @@ collections:
   projects:
     output: false
     permalink: /projects/:path/
-  service:
-    output: true
-    permalink: /service/:path/
 news_limit: 5
 
 # -----------------------------------------------------------------------------
